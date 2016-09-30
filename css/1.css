@@ -1,0 +1,27 @@
+body{
+    background-image: url("http://chainimage.com/images/abstract-and-textures-powerpoint-backgroundswallpapers-download-ppt-2.jpg");
+}
+
+.btn{
+    width: 200px;
+    font-size: 25px;
+    text-transform: uppercase;
+}
+
+.lead{
+    font-size: 50px;
+}
+
+#pause {
+    display: none;
+}
+
+#for_text{
+    display: block;
+    height: 50px;
+}
+
+#for_count{
+    display: block;
+    height: 50px;
+}
